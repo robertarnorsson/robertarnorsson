@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mix Master<br>🌱 I’m currently learning django and APIs<br>💬 Ask me about Mix Master
+🔭 I’m currently working on [Mix Master](https://mixmaster.app/)<br>🌱 I’m currently learning Django REST<br>💬 Ask me about [Mix Master](https://mixmaster.app/)
 
 
 # 💻 Tech Stack:
