@@ -6,6 +6,7 @@
 🚀 [Lil URLs](https://lilurls.com/)
 
 ### 🚧 Work in progress
+💭 [Dumb Story](https://dumbstory.com/)<br>
 🌐 [Robert Arnorsson](https://robertarnorsson.com/)<br>
 🛍️ [Robert Arnorsson Store](https://store.robertarnorsson.com/)<br>
 🍹 [Mix Master](https://mixmaster.app/)
