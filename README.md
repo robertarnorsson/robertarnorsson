@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Mix Master](https://mixmaster.app/)<br>🌱 I’m currently learning Django REST and Tailwind CSS<br>💬 Ask me about anything
+🔭 I’m currently working on [Dumb Story](https://dumbstory.com/)<br>🌱 I’m currently learning Django REST, Tailwind CSS and React TS<br>💬 Ask me about anything
 
 # 🛠️ Projects:
 ### ✔️ Finished
