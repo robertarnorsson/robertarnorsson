@@ -1,14 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on [Dumb Story](https://dumbstory.com/)<br>🌱 I’m currently learning Tailwind CSS and NextJS with TypeScript<br>💬 Ask me about anything
+🔭 I’m currently working on [t00l](https://t00l.win/)<br>🌱 I’m currently learning NextJS, TypeScript and Tailwind CSS<br>💬 Ask me about anything
 
 # 🛠️ Projects:
 ### ✔️ Finished
 🚀 [Lil URLs](https://lilurls.com/)
 
 ### 🚧 Work in progress
-💭 [Dumb Story](https://dumbstory.com/)<br>
+🧰 [t00l](https://t00l.win/)<br>
 🌐 [Robert Arnorsson](https://robertarnorsson.com/)<br>
-🛍️ [Robert Arnorsson Store](https://store.robertarnorsson.com/)<br>
 🍹 [Mix Master](https://mixmaster.app/)
 
 ### 💡 Future Ideas
