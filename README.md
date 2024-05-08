@@ -1,11 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on [t00l](https://t00l.app/)<br>🌱 I’m currently learning NextJS, TypeScript and Tailwind CSS<br>💬 Ask me about anything
+🔭 I’m currently working on [Gray Zone Warfare Map](https://gzwmap.com/)<br>🌱 I’m currently learning NextJS, TypeScript and Tailwind CSS<br>💬 Ask me about anything
 
 # 🛠️ Projects:
 ### ✔️ Finished
 🚀 [Lil URLs](https://lilurls.com/)
 
 ### 🚧 Work in progress
+🗺️ [GZW Map](https://gzwmap.com/)<br>
 🧰 [t00l](https://t00l.app/)<br>
 🌐 [Robert Arnorsson](https://robertarnorsson.com/)<br>
 🍹 [Mix Master](https://mixmaster.app/)
