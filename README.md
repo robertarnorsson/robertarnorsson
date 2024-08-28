@@ -1,12 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on [Gray Zone Warfare Map](https://gzwmap.com/)<br>🌱 I’m currently learning NextJS, TypeScript and Tailwind CSS
+🔭 I’m currently working on [MixMaster](https://mixmaster.app/)
 
 # 🛠️ Projects:
 ### ✔️ Finished
 🚀 Lil URLs *(Not hosted anymore)*
 
 ### 🚧 Work in progress
-🗺️ [GZW Map](https://gzwmap.com/)<br>
+🗺️ [GZW Map](https://gzwmap.com/) *(Not currently beeing worked on)*<br>
+🍸 [MixMaster](https://mixmaster.app/)<br>
 🌐 [Robert Arnorsson](https://robertarnorsson.com/)
 
 ### 💡 Future Ideas
